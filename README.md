@@ -1,109 +1,88 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+bit_+%F0%9F%91%BE;Python+Developer+%7C+Automation+Builder;Data+Analyst+%7C+Tool+Crafter;I+build+things+that+just+work.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+bit_;Python+Developer+%7C+Automation+Builder;FastAPI+%7C+Django+%7C+Web+Scraping;Data+Workflows+%7C+Bots+%7C+Useful+Tools)](https://git.io/typing-svg)
 
 </div>
 
----
+# bit_
 
-## >> WHO AM I
-
-I'm a developer focused on **building practical tools** - automation pipelines, Discord bots, data analysis systems, and AI-powered workflows.
-I like clean systems, efficient code, and software that actually solves something.
-
-- Currently building: AI subtitle translation pipelines & SQL analytics dashboards
-- Focus areas: Python automation, data analysis, Discord bots, LLM integrations
-- Tools I use daily: Python, SQL Server, Jupyter, FFmpeg, Ollama, Power BI
+Python developer focused on building practical tools, automation workflows, and data-driven projects.  
+I work across backend development, scraping utilities, bots, analytics, and systems that solve real problems.
 
 ---
 
-## >> TECH STACK
+## About Me
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00D9FF)
-![SQL](https://img.shields.io/badge/T--SQL-0d1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=00D9FF)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord_Bots-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-0d1117?style=for-the-badge&logo=ffmpeg&logoColor=007808)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
-
-</div>
+- I build software with a strong focus on usefulness, structure, and automation.
+- My work includes Python applications, FastAPI services, Django projects, web scraping tools, Discord bots, and data workflows.
+- I also completed a large set of CS50x projects, which helped strengthen my foundation in algorithms, C, Python, SQL, web development, and problem solving.
+- I like creating tools that reduce friction, save time, and turn repetitive work into reliable systems.
 
 ---
 
-## >> FEATURED PROJECTS
+## Tech Stack
 
-### SubFlow `[ ACTIVE ]`
-> MKV Subtitle Extractor, Translator & Multiplexer — powered by local/cloud AI
-
-Fully automated CLI pipeline: extract subtitles from MKV, translate them via Ollama / LM Studio / Gemini / OpenRouter, then re-mux back into the video. No manual steps.
-
-- Batch processing with recursive directory support
-- Context-aware translation using secondary subtitle tracks
-- Glossary file support + parallel execution for speed
-- Interactive launcher scripts for Windows & Linux
-
-`Python` `FFmpeg` `Ollama` `Gemini API` `CLI` `automation`
-
----
-
-### GiftMaster `[ PUBLIC ]`
-> Full-featured Discord Giveaway Bot with Web Summary Interface
-
-Create and manage Discord giveaways with slash commands. Users enter via button, real-time embed updates show countdown and entry count, winners are auto-selected and DM'd, and every completed giveaway gets its own Flask summary page.
-
-- Reroll support via command or right-click context menu
-- SQLite persistent storage + Docker deployment ready
-- Web summary page auto-linked on completion
-
-`Python` `discord.py` `Flask` `SQLite` `Docker`
+<p>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00C7B7" />
+  <img src="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=44B78B" />
+  <img src="https://img.shields.io/badge/Web%20Scraping-0d1117?style=for-the-badge&logo=beautifulsoup&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626" />
+  <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Discord%20Bots-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
+</p>
 
 ---
 
-### SQL Grind - Sales & Pricing Analysis `[ PUBLIC ]`
-> Multi-Year Business Intelligence Project — T-SQL + Power BI
+## Highlighted Work
 
-3 years of sales data (2023-2025), 200 customers, $871K revenue, 4 regions. Full analysis from basic aggregations to expert-level window functions, Pareto analysis, and customer segmentation.
+### Automation & Utility Projects
+I build tools that simplify repetitive tasks and improve technical workflows, with a strong preference for practical automation over unnecessary complexity.
 
-- RANK(), LAG(), running totals, PIVOT across regions
-- Pareto: 10 products = 80% of all revenue
-- Customer churn detection + CLV calculation
-- Power BI dashboard with KPIs by category, region & quarter
+### Backend Development
+I work with Python-based backend frameworks including FastAPI, Django, and Flask to build APIs, app logic, and structured services.
 
-`T-SQL` `SQL Server` `Power BI` `Data Analysis`
+### Web Scraping
+I have experience creating scraping tools for collecting, cleaning, and processing web data for research and technical use cases.
 
----
+### CS50x Work
+My CS50x repository includes work across multiple problem sets and topics such as C, Python, SQL, Flask, algorithms, and web fundamentals.
 
-### Quantium Retail Analytics `[ PUBLIC ]`
-> Customer Segmentation & Experimental Uplift Testing
-
-Real-world data science project (Quantium virtual internship). 264K+ transaction records, customer tiering, propensity-score control store matching, and A/B testing with causal inference.
-
-- Difference-in-Differences (DiD) framework
-- Pearson correlation + magnitude scoring for store matching
-- Live interactive Streamlit dashboard
-
-`Python` `Pandas` `Streamlit` `Statistics` `Jupyter`
+### Bots & Interactive Tools
+I enjoy building Discord bots and command-driven tools that are fast, useful, and easy to extend.
 
 ---
 
-## >> GITHUB STATS
+## Featured Repositories
 
-<div align="center">
+- **GiftMaster** — A comprehensive Discord bot project with interactive management features and a web-based summary interface.
+- **CS50x** — Coursework and project work covering algorithms, C, Python, SQL, Flask, and problem-solving exercises.
+- **FastAPI / Django / Scraping Projects** — Older and ongoing work that reflects my backend and automation experience.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bitt-ar&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0d1117)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bitt-ar&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0d1117&hide=html)
+## Current Focus
 
-</div>
+- Building smarter Python automation pipelines
+- Improving backend architecture and project structure
+- Exploring AI-assisted workflows
+- Creating tools that are efficient, clean, and reliable
+
+---
+
+## Philosophy
+
+I like software that feels like a well-designed system:  
+clear logic, useful output, and no unnecessary noise.
 
 ---
 
 <div align="center">
 
-`> building tools that just work. // bit_`
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bitt-ar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitt-ar&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
