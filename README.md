@@ -5,11 +5,21 @@
 </div>
 
 # bit_
+<p>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-0d1117?style=for-the-badge&logo=pandas&logoColor=150458" />
+  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00C7B7" />
+  <img src="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=44B78B" />
+  <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Web%20Scraping-0d1117?style=for-the-badge&logo=beautifulsoup&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626" />
+  <img src="https://img.shields.io/badge/Discord%20Bots-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
+</p>
 
 Python developer and data analyst focused on building practical tools, automation workflows, and data-driven applications.  
 My work spans backend development, analytics, web scraping, bots, and systems designed to solve real problems cleanly and efficiently.
-
----
 
 ## About Me
 
@@ -17,8 +27,6 @@ My work spans backend development, analytics, web scraping, bots, and systems de
 - My background includes Python applications, FastAPI services, Django projects, web scraping tools, Discord bots, and data workflows.
 - I also completed coursework and hands-on projects in CS50x and CS50W, strengthening my foundation in algorithms, Python, SQL, web development, and backend thinking.
 - I enjoy turning raw ideas, repetitive tasks, and messy data into clear and usable systems.
-
----
 
 ## Core Areas
 
@@ -37,33 +45,12 @@ I enjoy building command-driven tools and Discord bots that are interactive, pra
 ### CS50 Foundation
 My CS50 work reflects hands-on practice across programming fundamentals, problem solving, databases, web development, and application structure.
 
----
-
-## Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=FFD43B" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-0d1117?style=for-the-badge&logo=pandas&logoColor=150458" />
-  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00C7B7" />
-  <img src="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=44B78B" />
-  <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Web%20Scraping-0d1117?style=for-the-badge&logo=beautifulsoup&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626" />
-  <img src="https://img.shields.io/badge/Discord%20Bots-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2" />
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
-</p>
-
----
-
 ## Selected Work
 
 - **GiftMaster** — A comprehensive Discord bot project with interactive management features and a web-based summary interface.
 - **CS50x** — Project work across C, Python, SQL, Flask, algorithms, and problem-solving exercises.
 - **CS50W** — Web programming coursework that strengthens your profile in web architecture and application development.
 - **FastAPI / Django / Scraping Projects** — Older and ongoing backend and automation work that reflects practical development experience.
-
----
 
 ## What I Focus On
 
@@ -72,14 +59,10 @@ My CS50 work reflects hands-on practice across programming fundamentals, problem
 - Working on data-oriented and analysis-friendly tools
 - Creating clean, reliable, and efficient technical systems
 
----
-
 ## Philosophy
 
 I like software that feels like a well-designed system:  
 clear logic, useful output, and no unnecessary noise.
-
----
 
 <div align="center">
 
